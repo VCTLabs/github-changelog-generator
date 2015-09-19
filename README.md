@@ -36,6 +36,10 @@ Because software tools are for people. If you don’t care, why are you contribu
 
 ## Installation
 
+	gem install github_changelog_generator  (as normal user)
+
+### Or
+
 	[sudo] gem install github_changelog_generator
 
 ## Output example
