@@ -40,7 +40,7 @@ Because software tools are for people. If you don’t care, why are you contribu
 
 ### Or
 
-	[sudo] gem install github_changelog_generator
+	[sudo] gem install github_changelog_generator  (system-wide)
 
 ## Output example
 
